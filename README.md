@@ -8,6 +8,6 @@ This repository contains a collection of common github workflows that I've found
 #...
 jobs:
   build_and_test:
-    uses: geneowak/common-workflows/.github/workflows/laravel/build-and-test.yml@main
+    uses: geneowak/common-workflows/.github/workflows/laravel-build-and-test.yml@main
 #...
 ```
