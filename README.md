@@ -1,8 +1,8 @@
 # Common Workflows
 
-This repository contains a collection of common github workflows that I've found reusable across multiple projects. The goal is to define all of them here and reuse them in the various projects without having to recreate them all the time.
+This repository will contain a collection of common github workflows that I find reusable across multiple projects. The goal is to define all of them here and reuse them in the various projects without having to recreate them all the time.
 
-### Example
+### Example Usage
 
 ```yaml
 #...
